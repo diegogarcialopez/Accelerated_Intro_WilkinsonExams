@@ -1,0 +1,140 @@
+Full joined content of the two databases
+Germplasm_id	Germplasm_locus	Germplasm	Phenptype	Pubmed	LocusGene_id	LocusGene_locus	Gene	Protein_length
+1	AT1G01040	CS3828	Increased abundance of miRNA precursors.	17369351	1	AT1G01040	DCL1	332
+2	AT1G01060	lhy-101	The mutant plants are hypersensitive to both FRc and Rc light treatments in hypocotyl elongation and exhibits a small reciprocal enlargement in cotyledon area, albeit not statistically significant.	16891401	2	AT1G01060	LHY	290
+3	AT1G01140	SALK_058629	hypersensitive to low potassium media	17486125	3	AT1G01140	CIPK9	223
+4	AT1G01220	SALK_012400C	fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.	18199744	4	AT1G01220	FKGP	190
+5	AT2G03720	SALK_042433	Multiple straight hairs	16367956	5	AT2G03720	MRH6	189
+6	AT2G03800	gek1-1	Ethanol hypersensitivity.	15215505	6	AT2G03800	GEK1	196
+7	AT2G04240	xerico	Resistant to exogenous ABA. Seeds contained lower amounts of endogenous ABA than wildtype.	17933900	7	AT2G04240	XERICO	256
+8	AT2G05210	pot1-1	No visible phenotype.	17627276	8	AT2G05210	POT1A	221
+9	AT3G02130	rpk2-2	The homozygous progeny is indistinguishable from wild-type plants during vegetative growth but showed several morphological alterations after bolting. These plants displayed enhanced inflorescence branching and formed three times as many siliques and flowers as did wild-type plants.	17419837	9	AT3G02130	RPK2	284
+10	AT3G02140	afp4-1	Decreased germination on high concentrations of glucose and sorbitol.	18484180	10	AT3G02140	TMAC2	300
+11	AT3G02230	rgp1-1	rgp1-1 mutants have significantly lower levels of UDP-L-arabinose mutase activity compared to wild-type plants and significantly lower levels of arabinose in their cell walls.	21478444	11	AT3G02230	RGP1	301
+12	AT3G02260	tir3-1 RGLG1:rglg1 rglg2	The triple homozygous progeny has low viability, accumulated anthocyanin, and all plants died before shoot emergence.	17586653	12	AT3G02260	BIG	279
+13	AT3G02310	sep2-1	Non-described subtle phenotype.	10821278	13	AT3G02310	SEP2	175
+14	AT3G02680	atnbs1-1	Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root growth.  Normal growth under standard growth conditions.	17672843	14	AT3G02680	NBS1	190
+15	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	15	AT3G02850	SKOR	234
+16	AT3G02870	vtc4-1	ascorbate deficient	16595667	16	AT3G02870	VTC4	311
+17	AT3G03260	hdg8-1	No visible phenotype.	16778018	17	AT3G03260	HDG8	194
+18	AT4G14790	pdd17	Defective pollen development.	19237690	18	AT4G14790	SUV3	312
+19	AT4G15210	bmy1-2	Plants cold-shocked for 6h have an increased starch content compared to wildtype.	16297066	19	AT4G15210	BAM5	313
+20	AT4G15560	cla1-1	Mutant seeds grown on medium supplemented with non-phosphorylated synthetic 1-deoxy-D-xylulose (DX) develop green leaves.	10982425	20	AT4G15560	DXS	219
+21	AT4G15570	maa3	Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.	18772186	21	AT4G15570	MAA3	294
+22	AT4G15802	Athspb-2	Early flowering, reduced fertility, aborted seeds.	20388662	22	AT4G15802	HSBP	254
+23	AT4G15880	esd4-2	Decreased mRNA levels of the floral repressors FLC and MAF4 and increased mRNA levels of the floral activators FT and SOC1.	17513499	23	AT4G15880	ESD4	265
+24	AT4G16420	prz1-1	Altered response to auxin and cytokinin	12747832	24	AT4G16420	ADA2B	279
+25	AT4G16480	atint4-2	No visible phenotype.	16603666	25	AT4G16480	INT4	284
+26	AT5G10480	pas2-3	Segregates 25% embryo lethal.	18799749	26	AT5G10480	PAS2	301
+27	AT5G10510	plt3-1	Short roots and shortened root meristem.	17960244	27	AT5G10510	AIL6	310
+28	AT5G11110	kns2	Defects are specific to pollen exine structure. Smaller mesh size in the exine structure. Increased number of baculae. Fully fertile.	18779216	28	AT5G11110	SPS2	232
+29	AT5G11260	hy5-101	Under FRc conditions, the length mutant hypocotyls is increased compared to that of wild-type plants.  Under Rc conditions, the hypocotyl length is also increased and the cotyledon area is smaller.	16891401	29	AT5G11260	HY5	221
+30	AT5G11510	myb3r4-1	No visible phenotype.	17287251	30	AT5G11510	MYB3R-4	336
+31	AT5G12200	pyd2-2	The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.	19413687	31	AT5G12200	PYD2	310
+32	AT5G13290	crn-1	Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.	12345678	32	AT5G13290	CRN	189
+33	AT1G01040	CS3828	Increased abundance of miRNA precursors.	17369351	1	AT1G01040	DCL1	332
+34	AT1G01060	lhy-101	The mutant plants are hypersensitive to both FRc and Rc light treatments in hypocotyl elongation and exhibits a small reciprocal enlargement in cotyledon area, albeit not statistically significant.	16891401	2	AT1G01060	LHY	290
+35	AT1G01140	SALK_058629	hypersensitive to low potassium media	17486125	3	AT1G01140	CIPK9	223
+36	AT1G01220	SALK_012400C	fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.	18199744	4	AT1G01220	FKGP	190
+37	AT2G03720	SALK_042433	Multiple straight hairs	16367956	5	AT2G03720	MRH6	189
+38	AT2G03800	gek1-1	Ethanol hypersensitivity.	15215505	6	AT2G03800	GEK1	196
+39	AT2G04240	xerico	Resistant to exogenous ABA. Seeds contained lower amounts of endogenous ABA than wildtype.	17933900	7	AT2G04240	XERICO	256
+40	AT2G05210	pot1-1	No visible phenotype.	17627276	8	AT2G05210	POT1A	221
+41	AT3G02130	rpk2-2	The homozygous progeny is indistinguishable from wild-type plants during vegetative growth but showed several morphological alterations after bolting. These plants displayed enhanced inflorescence branching and formed three times as many siliques and flowers as did wild-type plants.	17419837	9	AT3G02130	RPK2	284
+42	AT3G02140	afp4-1	Decreased germination on high concentrations of glucose and sorbitol.	18484180	10	AT3G02140	TMAC2	300
+43	AT3G02230	rgp1-1	rgp1-1 mutants have significantly lower levels of UDP-L-arabinose mutase activity compared to wild-type plants and significantly lower levels of arabinose in their cell walls.	21478444	11	AT3G02230	RGP1	301
+44	AT3G02260	tir3-1 RGLG1:rglg1 rglg2	The triple homozygous progeny has low viability, accumulated anthocyanin, and all plants died before shoot emergence.	17586653	12	AT3G02260	BIG	279
+45	AT3G02310	sep2-1	Non-described subtle phenotype.	10821278	13	AT3G02310	SEP2	175
+46	AT3G02680	atnbs1-1	Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root growth.  Normal growth under standard growth conditions.	17672843	14	AT3G02680	NBS1	190
+47	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	15	AT3G02850	SKOR	234
+48	AT3G02870	vtc4-1	ascorbate deficient	16595667	16	AT3G02870	VTC4	311
+49	AT3G03260	hdg8-1	No visible phenotype.	16778018	17	AT3G03260	HDG8	194
+50	AT4G14790	pdd17	Defective pollen development.	19237690	18	AT4G14790	SUV3	312
+51	AT4G15210	bmy1-2	Plants cold-shocked for 6h have an increased starch content compared to wildtype.	16297066	19	AT4G15210	BAM5	313
+52	AT4G15560	cla1-1	Mutant seeds grown on medium supplemented with non-phosphorylated synthetic 1-deoxy-D-xylulose (DX) develop green leaves.	10982425	20	AT4G15560	DXS	219
+53	AT4G15570	maa3	Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.	18772186	21	AT4G15570	MAA3	294
+54	AT4G15802	Athspb-2	Early flowering, reduced fertility, aborted seeds.	20388662	22	AT4G15802	HSBP	254
+55	AT4G15880	esd4-2	Decreased mRNA levels of the floral repressors FLC and MAF4 and increased mRNA levels of the floral activators FT and SOC1.	17513499	23	AT4G15880	ESD4	265
+56	AT4G16420	prz1-1	Altered response to auxin and cytokinin	12747832	24	AT4G16420	ADA2B	279
+57	AT4G16480	atint4-2	No visible phenotype.	16603666	25	AT4G16480	INT4	284
+58	AT5G10480	pas2-3	Segregates 25% embryo lethal.	18799749	26	AT5G10480	PAS2	301
+59	AT5G10510	plt3-1	Short roots and shortened root meristem.	17960244	27	AT5G10510	AIL6	310
+60	AT5G11110	kns2	Defects are specific to pollen exine structure. Smaller mesh size in the exine structure. Increased number of baculae. Fully fertile.	18779216	28	AT5G11110	SPS2	232
+61	AT5G11260	hy5-101	Under FRc conditions, the length mutant hypocotyls is increased compared to that of wild-type plants.  Under Rc conditions, the hypocotyl length is also increased and the cotyledon area is smaller.	16891401	29	AT5G11260	HY5	221
+62	AT5G11510	myb3r4-1	No visible phenotype.	17287251	30	AT5G11510	MYB3R-4	336
+63	AT5G12200	pyd2-2	The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.	19413687	31	AT5G12200	PYD2	310
+64	AT5G13290	crn-1	Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.	12345678	32	AT5G13290	CRN	189
+Joined report of genes MAA3 and SKOR
+Germplasm_id	Germplasm_locus	Germplasm	Phenptype	Pubmed	LocusGene_id	LocusGene_locus	Gene	Protein_length
+1	AT1G01040	CS3828	Increased abundance of miRNA precursors.	17369351	21	AT4G15570	MAA3	294
+2	AT1G01060	lhy-101	The mutant plants are hypersensitive to both FRc and Rc light treatments in hypocotyl elongation and exhibits a small reciprocal enlargement in cotyledon area, albeit not statistically significant.	16891401	21	AT4G15570	MAA3	294
+3	AT1G01140	SALK_058629	hypersensitive to low potassium media	17486125	21	AT4G15570	MAA3	294
+4	AT1G01220	SALK_012400C	fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.	18199744	21	AT4G15570	MAA3	294
+5	AT2G03720	SALK_042433	Multiple straight hairs	16367956	21	AT4G15570	MAA3	294
+6	AT2G03800	gek1-1	Ethanol hypersensitivity.	15215505	21	AT4G15570	MAA3	294
+7	AT2G04240	xerico	Resistant to exogenous ABA. Seeds contained lower amounts of endogenous ABA than wildtype.	17933900	21	AT4G15570	MAA3	294
+8	AT2G05210	pot1-1	No visible phenotype.	17627276	21	AT4G15570	MAA3	294
+9	AT3G02130	rpk2-2	The homozygous progeny is indistinguishable from wild-type plants during vegetative growth but showed several morphological alterations after bolting. These plants displayed enhanced inflorescence branching and formed three times as many siliques and flowers as did wild-type plants.	17419837	21	AT4G15570	MAA3	294
+10	AT3G02140	afp4-1	Decreased germination on high concentrations of glucose and sorbitol.	18484180	21	AT4G15570	MAA3	294
+11	AT3G02230	rgp1-1	rgp1-1 mutants have significantly lower levels of UDP-L-arabinose mutase activity compared to wild-type plants and significantly lower levels of arabinose in their cell walls.	21478444	21	AT4G15570	MAA3	294
+12	AT3G02260	tir3-1 RGLG1:rglg1 rglg2	The triple homozygous progeny has low viability, accumulated anthocyanin, and all plants died before shoot emergence.	17586653	21	AT4G15570	MAA3	294
+13	AT3G02310	sep2-1	Non-described subtle phenotype.	10821278	21	AT4G15570	MAA3	294
+14	AT3G02680	atnbs1-1	Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root growth.  Normal growth under standard growth conditions.	17672843	21	AT4G15570	MAA3	294
+15	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	15	AT3G02850	SKOR	234
+15	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	21	AT4G15570	MAA3	294
+16	AT3G02870	vtc4-1	ascorbate deficient	16595667	21	AT4G15570	MAA3	294
+17	AT3G03260	hdg8-1	No visible phenotype.	16778018	21	AT4G15570	MAA3	294
+18	AT4G14790	pdd17	Defective pollen development.	19237690	21	AT4G15570	MAA3	294
+19	AT4G15210	bmy1-2	Plants cold-shocked for 6h have an increased starch content compared to wildtype.	16297066	21	AT4G15570	MAA3	294
+20	AT4G15560	cla1-1	Mutant seeds grown on medium supplemented with non-phosphorylated synthetic 1-deoxy-D-xylulose (DX) develop green leaves.	10982425	21	AT4G15570	MAA3	294
+21	AT4G15570	maa3	Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.	18772186	21	AT4G15570	MAA3	294
+22	AT4G15802	Athspb-2	Early flowering, reduced fertility, aborted seeds.	20388662	21	AT4G15570	MAA3	294
+23	AT4G15880	esd4-2	Decreased mRNA levels of the floral repressors FLC and MAF4 and increased mRNA levels of the floral activators FT and SOC1.	17513499	21	AT4G15570	MAA3	294
+24	AT4G16420	prz1-1	Altered response to auxin and cytokinin	12747832	21	AT4G15570	MAA3	294
+25	AT4G16480	atint4-2	No visible phenotype.	16603666	21	AT4G15570	MAA3	294
+26	AT5G10480	pas2-3	Segregates 25% embryo lethal.	18799749	21	AT4G15570	MAA3	294
+27	AT5G10510	plt3-1	Short roots and shortened root meristem.	17960244	21	AT4G15570	MAA3	294
+28	AT5G11110	kns2	Defects are specific to pollen exine structure. Smaller mesh size in the exine structure. Increased number of baculae. Fully fertile.	18779216	21	AT4G15570	MAA3	294
+29	AT5G11260	hy5-101	Under FRc conditions, the length mutant hypocotyls is increased compared to that of wild-type plants.  Under Rc conditions, the hypocotyl length is also increased and the cotyledon area is smaller.	16891401	21	AT4G15570	MAA3	294
+30	AT5G11510	myb3r4-1	No visible phenotype.	17287251	21	AT4G15570	MAA3	294
+31	AT5G12200	pyd2-2	The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.	19413687	21	AT4G15570	MAA3	294
+32	AT5G13290	crn-1	Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.	12345678	21	AT4G15570	MAA3	294
+33	AT1G01040	CS3828	Increased abundance of miRNA precursors.	17369351	21	AT4G15570	MAA3	294
+34	AT1G01060	lhy-101	The mutant plants are hypersensitive to both FRc and Rc light treatments in hypocotyl elongation and exhibits a small reciprocal enlargement in cotyledon area, albeit not statistically significant.	16891401	21	AT4G15570	MAA3	294
+35	AT1G01140	SALK_058629	hypersensitive to low potassium media	17486125	21	AT4G15570	MAA3	294
+36	AT1G01220	SALK_012400C	fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.	18199744	21	AT4G15570	MAA3	294
+37	AT2G03720	SALK_042433	Multiple straight hairs	16367956	21	AT4G15570	MAA3	294
+38	AT2G03800	gek1-1	Ethanol hypersensitivity.	15215505	21	AT4G15570	MAA3	294
+39	AT2G04240	xerico	Resistant to exogenous ABA. Seeds contained lower amounts of endogenous ABA than wildtype.	17933900	21	AT4G15570	MAA3	294
+40	AT2G05210	pot1-1	No visible phenotype.	17627276	21	AT4G15570	MAA3	294
+41	AT3G02130	rpk2-2	The homozygous progeny is indistinguishable from wild-type plants during vegetative growth but showed several morphological alterations after bolting. These plants displayed enhanced inflorescence branching and formed three times as many siliques and flowers as did wild-type plants.	17419837	21	AT4G15570	MAA3	294
+42	AT3G02140	afp4-1	Decreased germination on high concentrations of glucose and sorbitol.	18484180	21	AT4G15570	MAA3	294
+43	AT3G02230	rgp1-1	rgp1-1 mutants have significantly lower levels of UDP-L-arabinose mutase activity compared to wild-type plants and significantly lower levels of arabinose in their cell walls.	21478444	21	AT4G15570	MAA3	294
+44	AT3G02260	tir3-1 RGLG1:rglg1 rglg2	The triple homozygous progeny has low viability, accumulated anthocyanin, and all plants died before shoot emergence.	17586653	21	AT4G15570	MAA3	294
+45	AT3G02310	sep2-1	Non-described subtle phenotype.	10821278	21	AT4G15570	MAA3	294
+46	AT3G02680	atnbs1-1	Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root growth.  Normal growth under standard growth conditions.	17672843	21	AT4G15570	MAA3	294
+47	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	15	AT3G02850	SKOR	234
+47	AT3G02850	CS3816	The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.	17568770	21	AT4G15570	MAA3	294
+48	AT3G02870	vtc4-1	ascorbate deficient	16595667	21	AT4G15570	MAA3	294
+49	AT3G03260	hdg8-1	No visible phenotype.	16778018	21	AT4G15570	MAA3	294
+50	AT4G14790	pdd17	Defective pollen development.	19237690	21	AT4G15570	MAA3	294
+51	AT4G15210	bmy1-2	Plants cold-shocked for 6h have an increased starch content compared to wildtype.	16297066	21	AT4G15570	MAA3	294
+52	AT4G15560	cla1-1	Mutant seeds grown on medium supplemented with non-phosphorylated synthetic 1-deoxy-D-xylulose (DX) develop green leaves.	10982425	21	AT4G15570	MAA3	294
+53	AT4G15570	maa3	Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.	18772186	21	AT4G15570	MAA3	294
+54	AT4G15802	Athspb-2	Early flowering, reduced fertility, aborted seeds.	20388662	21	AT4G15570	MAA3	294
+55	AT4G15880	esd4-2	Decreased mRNA levels of the floral repressors FLC and MAF4 and increased mRNA levels of the floral activators FT and SOC1.	17513499	21	AT4G15570	MAA3	294
+56	AT4G16420	prz1-1	Altered response to auxin and cytokinin	12747832	21	AT4G15570	MAA3	294
+57	AT4G16480	atint4-2	No visible phenotype.	16603666	21	AT4G15570	MAA3	294
+58	AT5G10480	pas2-3	Segregates 25% embryo lethal.	18799749	21	AT4G15570	MAA3	294
+59	AT5G10510	plt3-1	Short roots and shortened root meristem.	17960244	21	AT4G15570	MAA3	294
+60	AT5G11110	kns2	Defects are specific to pollen exine structure. Smaller mesh size in the exine structure. Increased number of baculae. Fully fertile.	18779216	21	AT4G15570	MAA3	294
+61	AT5G11260	hy5-101	Under FRc conditions, the length mutant hypocotyls is increased compared to that of wild-type plants.  Under Rc conditions, the hypocotyl length is also increased and the cotyledon area is smaller.	16891401	21	AT4G15570	MAA3	294
+62	AT5G11510	myb3r4-1	No visible phenotype.	17287251	21	AT4G15570	MAA3	294
+63	AT5G12200	pyd2-2	The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.	19413687	21	AT4G15570	MAA3	294
+64	AT5G13290	crn-1	Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.	12345678	21	AT4G15570	MAA3	294
+Number of entries for chromosomes 1 and 5
+AT1G	8
+AT5G	14
+Average length of proteins encoded by genes in chromosomes 1 and 5
+AT1G	259
+AT5G	271
